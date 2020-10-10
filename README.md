@@ -2,6 +2,8 @@
 
 A tool that makes it easy to make Fivey Fox memes.
 
+![Fivey-memer](https://user-images.githubusercontent.com/827851/95641151-a40e1a00-0a6e-11eb-8fac-0c258d53ef46.gif)
+
 ## Usage
 
 - Navigate to [chrome://extensions](chrome://extensions/)
