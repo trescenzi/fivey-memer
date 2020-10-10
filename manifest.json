@@ -1,0 +1,19 @@
+{
+  "manifest_version": 2,
+  "name": "FiveyMemer",
+  "version": "1.0.0",
+  "premissions": ["tabs"],
+  "browser_action": {
+    "default_popup": "src/popup.html"
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "https://projects.fivethirtyeight.com/*"
+      ],
+      "js": [
+        "src/fivey.js"
+      ]
+    }
+  ]
+}
