@@ -2,7 +2,7 @@
   "manifest_version": 2,
   "name": "FiveyMemer",
   "version": "1.0.0",
-  "premissions": ["tabs"],
+  "permissions": ["tabs"],
   "browser_action": {
     "default_popup": "src/popup.html"
   },
